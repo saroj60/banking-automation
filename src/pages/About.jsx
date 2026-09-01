@@ -33,9 +33,21 @@ export default function About() {
   ];
 
   const teamMembers = [
-    { name: "Sanjay Bajracharya", pos: "Managing Director", desc: "Over 15 years in currency sorting solutions and strategic B2B distribution networks." },
-    { name: "Pukar Shrestha", pos: "Chief Technical Engineer", desc: "Specializes in multi-channel queue system programming and sensor calibrations." },
-    { name: "Anish Adhikari", pos: "Head of Client Services", desc: "Coordinates technical SLAs and field engineers across Kathmandu, Pokhara, and Chitwan." }
+    { 
+      name: "Managing Director", 
+      pos: "Executive Leadership", 
+      desc: "Strategic leadership in currency processing technologies and enterprise B2B distribution networks across Nepal." 
+    },
+    { 
+      name: "Head of Engineering", 
+      pos: "Technical Operations", 
+      desc: "Oversees smart queue system deployments, sensor calibrations, firmware setups, and teller hardware integrations." 
+    },
+    { 
+      name: "Customer Success Lead", 
+      pos: "Client Relations & Support", 
+      desc: "Manages nationwide technical service level agreements (SLAs), client onboarding, and field support engineers." 
+    }
   ];
 
   const certifications = [
