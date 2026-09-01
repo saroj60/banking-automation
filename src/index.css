@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-navy: #062B78;
+  --color-dark-navy: #071A3D;
+  --color-blue-accent: #1455C0;
+  --color-light-blue: #EAF2FF;
+  --color-light-section: #F6F8FC;
+  --color-text-main: #172033;
+  --color-muted-text: #64748B;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-text-main antialiased font-sans;
+  }
+  
+  /* Accessible visible focus states */
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    @apply outline-2 outline-offset-2 outline-blue-accent;
+  }
+}
+
+/* Hide scrollbar for mobile horizontal scrolling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Premium B2B Shadow effects */
+.shadow-soft {
+  box-shadow: 0 4px 20px -2px rgba(7, 26, 61, 0.05);
+}
+
+.shadow-premium {
+  box-shadow: 0 10px 30px -5px rgba(6, 43, 120, 0.08);
+}

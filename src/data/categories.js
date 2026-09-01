@@ -1,0 +1,121 @@
+// Product Categories Data
+
+export const categories = [
+  {
+    id: "currency-counters",
+    name: "Currency Counters",
+    slug: "currency-counters",
+    description: "High-speed cash counting machines equipped with advanced counterfeit note detection technologies, designed for bank tellers, businesses, and retail environments.",
+    image: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?q=80&w=800&auto=format&fit=crop",
+    icon: "Banknote",
+    benefits: [
+      "Reduce cash handling errors and increase teller speed.",
+      "Identify counterfeit notes instantly with UV and MG sensors.",
+      "Batch and add options for organizing high-volume cash transactions."
+    ]
+  },
+  {
+    id: "currency-sorters",
+    name: "Currency Sorters",
+    slug: "currency-sorters",
+    description: "Heavy-duty cash processing machines designed to sort, count, and authenticate multiple currencies simultaneously.",
+    image: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+    icon: "Layers",
+    benefits: [
+      "Sort cash by denomination, orientation, and fitness level.",
+      "Multi-currency detection suitable for international banking.",
+      "Connects to PC and printers for detailed transaction reporting."
+    ]
+  },
+  {
+    id: "fake-note-detectors",
+    name: "Fake Note Detectors",
+    slug: "fake-note-detectors",
+    description: "Compact and reliable ultraviolet, magnetic, and infrared counterfeit detectors for retail counters and cashier desks.",
+    image: "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?q=80&w=800&auto=format&fit=crop",
+    icon: "ShieldAlert",
+    benefits: [
+      "Compact size that fits perfectly on small retail checkout counters.",
+      "Dual or triple sensor analysis (UV, MG, Watermark) for high security.",
+      "Instantly flags fake currency to prevent direct cash losses."
+    ]
+  },
+  {
+    id: "queue-systems",
+    name: "Queue Systems",
+    slug: "queue-systems",
+    description: "Comprehensive customer queue management systems including ticket printers, token displays, and counter controls.",
+    image: "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?q=80&w=800&auto=format&fit=crop",
+    icon: "Users",
+    benefits: [
+      "Eliminate physical queues and improve customer waiting experience.",
+      "Optimize staff allocation by monitoring average service times.",
+      "Improve office/branch aesthetic and orderliness."
+    ]
+  },
+  {
+    id: "token-systems",
+    name: "Token Systems",
+    slug: "token-systems",
+    description: "Simple stand-alone token calling systems for small clinics, billing counters, and customer service centers.",
+    image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=800&auto=format&fit=crop",
+    icon: "Ticket",
+    benefits: [
+      "Easy plug-and-play installation with no network requirement.",
+      "High volume chime notifications to guide waiting clients.",
+      "Durable keypads for long-term daily counter use."
+    ]
+  },
+  {
+    id: "led-displays",
+    name: "LED Display Boards",
+    slug: "led-displays",
+    description: "Customizable, high-brightness LED token and informational displays for financial and public offices.",
+    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
+    icon: "Tv",
+    benefits: [
+      "Ultra-bright LED layout readable from wide viewing angles.",
+      "Configurable sound cues and multi-language characters.",
+      "Low power consumption for continuous daytime operations."
+    ]
+  },
+  {
+    id: "token-dispensers",
+    name: "Token Dispensers",
+    slug: "token-dispensers",
+    description: "Touchscreen or manual thermal-printer ticket dispensers that serve as the entry point for queue management.",
+    image: "https://images.unsplash.com/photo-1556742044-3c52d6e88c62?q=80&w=800&auto=format&fit=crop",
+    icon: "Printer",
+    benefits: [
+      "High-speed thermal printing with autocutter mechanism.",
+      "Customizable ticket header with company logo and service titles.",
+      "Interactive touchscreen options for customer self-service selection."
+    ]
+  },
+  {
+    id: "school-bells",
+    name: "School Bells",
+    slug: "school-bells",
+    description: "Automatic electronic school and college bells with programmable scheduling and chime setups.",
+    image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=800&auto=format&fit=crop",
+    icon: "Bell",
+    benefits: [
+      "Fully automated scheduling to eliminate manual delay errors.",
+      "Backup battery configuration to preserve schedules during power outages.",
+      "Different musical melodies and chime types to represent periods."
+    ]
+  },
+  {
+    id: "other-automation",
+    name: "Other Automation",
+    slug: "other-automation",
+    description: "Additional business technology and banking automation systems, including security vaults and binder systems.",
+    image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=800&auto=format&fit=crop",
+    icon: "Cpu",
+    benefits: [
+      "Enhance office security and cash binding efficiency.",
+      "Streamline operations with professional currency-binding accessories.",
+      "Bespoke technology integrations tailored to specialized business needs."
+    ]
+  }
+];

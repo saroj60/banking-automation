@@ -1,0 +1,461 @@
+[
+  {
+    "id": "prod-bc-100",
+    "name": "Advanced Cash Counting Machine BC-100",
+    "slug": "advanced-cash-counting-machine-bc-100",
+    "category": "currency-counters",
+    "brand": "Suzuco",
+    "description": "The Suzuco BC-100 is a commercial-grade currency counter designed for heavy-duty daily use. It is equipped with advanced ultraviolet (UV) and magnetic (MG) sensors to verify banknote authenticity while counting. Suitable for banks, financial cooperatives, supermarkets, and large retail outlets in Nepal, this machine operates quietly and efficiently, processing high volumes of cash with absolute precision.",
+    "shortDescription": "High-speed professional currency counter with dual UV & MG counterfeit detection.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": true,
+    "images": [
+      "/images/products/counter-1.png"
+    ],
+    "features": [
+      "High speed counting of 1,000 notes per minute.",
+      "Accurate counterfeit detection using UV (Ultraviolet) and MG (Magnetic) sensors.",
+      "Auto start, stop, and clearing features.",
+      "Batching, adding, and self-examination functions.",
+      "External LED display unit included for customer transparency."
+    ],
+    "specifications": {
+      "Counting Speed": "1000 notes/min",
+      "Hopper Capacity": "300 notes",
+      "Stacker Capacity": "200 notes",
+      "Display Type": "LED Display",
+      "Detection Sensors": "UV, MG, Size detection",
+      "Size of Countable Note": "50mm x 110mm to 90mm x 190mm",
+      "Net Weight": "5.7 kg",
+      "Power Source": "AC 220V ± 10%, 50Hz"
+    },
+    "applications": [
+      "Commercial Bank Branches",
+      "Microfinances and Savings Cooperatives",
+      "Wholesale Retailers",
+      "Hospital Cash Counters"
+    ],
+    "countingSpeed": "1000-1200",
+    "hopperCapacity": "300",
+    "displayType": "LED",
+    "uvDetection": true,
+    "mgDetection": true
+  },
+  {
+    "id": "prod-cs-200",
+    "name": "Professional Currency Sorter CS-200",
+    "slug": "professional-currency-sorter-cs-200",
+    "category": "currency-sorters",
+    "brand": "Glory",
+    "description": "The Glory CS-200 is an elite dual-pocket value counter and fitness sorter that processes multi-currencies, including Nepalese Rupees, US Dollars, Euros, and Indian Rupees. It identifies denomination, orientation, and quality (fitness sorting) in a single pass. Designed for central cash offices, main bank vaults, and high-volume cash handling hubs, it ensures uninterrupted counting and rejection of suspicious notes without stopping.",
+    "shortDescription": "Heavy-duty 1.5 pocket currency sorter with fitness sorting and multi-currency support.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": true,
+    "images": [
+      "/images/products/sorter-1.png"
+    ],
+    "features": [
+      "Continuous counting with a dedicated reject pocket.",
+      "Advanced CIS (Contact Image Sensor) for full-note scanning.",
+      "Multi-currency auto-detection (NPR, USD, EUR, INR, CNY).",
+      "Fitness sorting: detects tears, folds, soil, tape, and graffiti.",
+      "PC connection port for data collection and software updates."
+    ],
+    "specifications": {
+      "Counting Speed": "1200 notes/min (value) / 1000 notes/min (fitness)",
+      "Hopper Capacity": "500 notes",
+      "Stacker Capacity": "200 notes",
+      "Reject Pocket Capacity": "100 notes",
+      "Display Type": "TFT Touchscreen",
+      "Detection Sensors": "Dual CIS, UV, MG, IR, US (Ultrasonic)",
+      "Net Weight": "9.5 kg",
+      "Dimensions": "300mm x 330mm x 325mm"
+    },
+    "applications": [
+      "Central Bank & Cash Hubs",
+      "Commercial Bank Head Offices",
+      "Large-scale Cooperatives",
+      "Casino Cash Rooms"
+    ],
+    "countingSpeed": "Above 1200",
+    "hopperCapacity": "Above 300",
+    "displayType": "TFT Touchscreen",
+    "uvDetection": true,
+    "mgDetection": true
+  },
+  {
+    "id": "prod-md-50",
+    "name": "Handheld Rechargeable Fake Note Detector MD-50",
+    "slug": "handheld-fake-note-detector-md-50",
+    "category": "fake-note-detectors",
+    "brand": "BankingAut",
+    "description": "The MD-50 is a portable, rechargeable, pocket-sized currency validator perfect for delivery drivers, taxi operators, cash collection agents, and small shop owners in Nepal. It combines powerful UV lights, a magnetic ink sensor, and a white LED back-light for checking paper watermark grids. Rechargeable via micro-USB, it fits easily in hands and pockets for on-the-go security.",
+    "shortDescription": "Ultra-portable rechargeable fake note detector with UV and magnetic ink sensor.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "/images/products/detector-1.png"
+    ],
+    "features": [
+      "Compact, lightweight, and handheld design.",
+      "Dual powerful UV LEDs for checking fluorescent fibers.",
+      "Magnetic sensor tip with acoustic beep and light indicator for magnetic ink.",
+      "Built-in rechargeable lithium battery (up to 8 hours of standby).",
+      "White light for watermark verification."
+    ],
+    "specifications": {
+      "Detection Type": "UV, Magnetic, Watermark",
+      "Battery Type": "Rechargeable Lithium (3.7V / 1200mAh)",
+      "Charging Port": "USB Type-C / Micro-USB",
+      "Dimensions": "125mm x 45mm x 25mm",
+      "Net Weight": "0.15 kg"
+    },
+    "applications": [
+      "Delivery and Courier Personnel",
+      "Petrol Pumps and Gas Stations",
+      "Field Cash Collection Agents",
+      "Small Retail Outlets"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LED Indicator",
+    "uvDetection": true,
+    "mgDetection": true
+  },
+  {
+    "id": "prod-q-smart",
+    "name": "Interactive Queue Management System Q-Smart",
+    "slug": "interactive-queue-management-system-q-smart",
+    "category": "queue-systems",
+    "brand": "BankingAut",
+    "description": "The Q-Smart system is an all-in-one queuing solution engineered to streamline customer flow in crowded banking halls, hospital waiting areas, and government administration offices across Nepal. The system coordinates the ticket dispenser, calling keypads, counter LED indicators, and voice announcements. Its administrative dashboard allows managers to monitor customer wait times and counter efficiency in real-time.",
+    "shortDescription": "Complete queue management system with interactive ticketing, counter terminals, and reporting.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": true,
+    "images": [
+      "/images/products/queue-1.png"
+    ],
+    "features": [
+      "Supports multi-service and multi-category routing.",
+      "Clear voice announcements in English and Nepali (e.g., 'Token Number 105, please proceed to Counter 3').",
+      "Real-time analytics and queue status dashboard.",
+      "Hardware calling keypads for tellers, or software app equivalents.",
+      "Customizable ticketing format with logos and dates."
+    ],
+    "specifications": {
+      "System Architecture": "TCP/IP Network-based or Standalone wireless",
+      "Voice Synthesis": "English / Nepali voice calling",
+      "Maximum Terminals": "Up to 32 counters",
+      "Report Exports": "Excel / PDF statistical reports",
+      "Power input": "220V AC"
+    },
+    "applications": [
+      "A-class Commercial Banks",
+      "District Administration Offices (DAO / CDO)",
+      "Hospital Outpatient Departments",
+      "Telecommunication Customer Service Centers"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LCD / LED",
+    "uvDetection": false,
+    "mgDetection": false
+  },
+  {
+    "id": "prod-t-800",
+    "name": "High-Brightness LED Token Display Board T-800",
+    "slug": "high-brightness-led-token-display-board-t-800",
+    "category": "led-displays",
+    "brand": "BankingAut",
+    "description": "The T-800 is a prominent, high-brightness LED token display board that indicates current token numbers and counter assignments. Its bright red LED display ensures legibility even in large, well-lit banking halls or hospital lobbies. Designed to work seamlessly with both wireless keypads and custom computer-based queue systems.",
+    "shortDescription": "Ultra-bright 4-digit token number + 2-digit counter number LED display board.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": true,
+    "images": [
+      "/images/products/display-1.png"
+    ],
+    "features": [
+      "4-digit token display and 2-digit counter display.",
+      "Ultra-wide 120-degree viewing angle.",
+      "Built-in pleasant ding-dong chime volume controls.",
+      "Sturdy aluminum alloy frame with wall mounting brackets.",
+      "Works on simple RJ45 network cables or wireless signals."
+    ],
+    "specifications": {
+      "LED Digit Color": "Bright Red (Option for Green)",
+      "Character Height": "4.0 inches",
+      "Power consumption": "15 Watts",
+      "Communication Range": "Up to 100m indoors (wireless)",
+      "Dimensions": "450mm x 200mm x 40mm"
+    },
+    "applications": [
+      "Hospital Billing Desks",
+      "Public Utilities (NEA / Nepal Telecom)",
+      "Cooperative Banks",
+      "Tax Offices"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LED",
+    "uvDetection": false,
+    "mgDetection": false
+  },
+  {
+    "id": "prod-td-10",
+    "name": "Self-Service Touchscreen Token Dispenser TD-10",
+    "slug": "self-service-touchscreen-token-dispenser-td-10",
+    "category": "token-dispensers",
+    "brand": "Kisan",
+    "description": "The TD-10 is a standalone, heavy-duty self-service kiosk with an interactive 17-inch touchscreen panel and a built-in heavy-duty 80mm thermal printer. Designed to guide customers at the entry point of banks or hospitals, it allows clients to select their desired service, automatically printing a token number with date, time, and custom promotional text.",
+    "shortDescription": "Premium 17-inch touchscreen token dispenser kiosk with high-speed thermal printing.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "/images/products/dispenser-1.png"
+    ],
+    "features": [
+      "17-inch responsive infrared touchscreen display.",
+      "Built-in 80mm thermal printer with auto-cutter.",
+      "Configurable service buttons with nested menus (e.g. Cash, Accounts, Loans).",
+      "Custom ticket logo and text setup.",
+      "Durable powder-coated steel housing."
+    ],
+    "specifications": {
+      "Screen Size": "17 inch active matrix",
+      "Resolution": "1280 x 1024",
+      "Printer Width": "80mm with auto-cutter",
+      "Operating System": "Embedded Windows/Linux OS",
+      "Chassis Material": "1.5mm cold rolled steel",
+      "Voltage": "220V AC ± 15%"
+    },
+    "applications": [
+      "Corporate Banking Halls",
+      "Private Hospital Reception Desks",
+      "Municipal Corporation Offices",
+      "Embassy Consular Sections"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LCD / LED",
+    "uvDetection": false,
+    "mgDetection": false
+  },
+  {
+    "id": "prod-sb-elite",
+    "name": "Programmable Automatic School Bell SB-Elite",
+    "slug": "programmable-automatic-school-bell-sb-elite",
+    "category": "school-bells",
+    "brand": "Bellmatic",
+    "description": "The SB-Elite is an intelligent, micro-controller based automatic school bell designed to schedule school and college periods automatically. Programmed easily using an Android App via Bluetooth, the bell sounds precisely at scheduled timings, supporting week-day changes, exam session patterns, and assembly alerts. Perfect for educational institutions across Nepal looking to eliminate manual ringing errors.",
+    "shortDescription": "Bluetooth programmable automatic school and college bell with weekend skip.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop"
+    ],
+    "features": [
+      "Set up to 50 bell events per day.",
+      "Easy schedule modification using Bluetooth Android Application.",
+      "Built-in RTC (Real-Time Clock) keeps correct time even when power is off.",
+      "Holiday mode, half-day mode, and exam schedule patterns.",
+      "Direct connection to heavy copper gongs or PA sound systems."
+    ],
+    "specifications": {
+      "Microcontroller": "32-bit ARM chip",
+      "RTC Accuracy": "± 2 minutes per year",
+      "Connectivity": "Bluetooth 5.0",
+      "Schedule Capacity": "Up to 50 bells/day",
+      "Relay Output": "AC 220V / 10A max",
+      "Enclosure": "Flame-retardant ABS plastic"
+    },
+    "applications": [
+      "Primary & Secondary Schools",
+      "Universities and Colleges",
+      "Factories and Shift-based Workplaces"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LCD",
+    "uvDetection": false,
+    "mgDetection": false
+  },
+  {
+    "id": "prod-bm-300",
+    "name": "Heavy-Duty Cash Binding Machine BM-300",
+    "slug": "automatic-cash-binding-machine-bm-300",
+    "category": "other-automation",
+    "brand": "Kisan",
+    "description": "The BM-300 is a fully automatic tabletop paper-tape binding machine designed to bundle cash packets of 100 banknotes efficiently. It uses heat-sealing technology to secure bank notes with standard paper tape, ensuring neat, tight, and tamper-proof bundles. It saves teller time and standardizes cash packaging in vault transfers.",
+    "shortDescription": "Automatic currency bundle paper tape strapping machine with heating sealing.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "/images/products/counter-4.png"
+    ],
+    "features": [
+      "Automatic detection and strapping mechanism.",
+      "Instant heating block for immediate sealing.",
+      "Adjustable strapping position and tension parameters.",
+      "Works with eco-friendly standard white paper tape.",
+      "Compact desktop space requirement."
+    ],
+    "specifications": {
+      "Binding Speed": "2.0 seconds per loop",
+      "Tape Width": "20mm",
+      "Binding Size Range": "Max: 200mm x 150mm, Min: 100mm x 50mm",
+      "Strapping Tension": "5N to 40N (adjustable)",
+      "Net Weight": "6.2 kg"
+    },
+    "applications": [
+      "Bank Cash Vault Rooms",
+      "Cooperative Deposit Counters",
+      "Cash-in-Transit (CIT) Companies"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LED",
+    "uvDetection": false,
+    "mgDetection": false
+  },
+  {
+    "id": "prod-s-500",
+    "name": "Heavy-Duty Multi-Denomination Counter S-500",
+    "slug": "heavy-duty-multi-denomination-counter-s-500",
+    "category": "currency-counters",
+    "brand": "Kisan",
+    "description": "The Kisan S-500 is a state-of-the-art multi-denomination value counter engineered specifically for complex mixed currency counting. It is preloaded with Nepalese Rupees (NPR), Indian Rupees (INR), and US Dollars (USD) value parameters. It scans bills using a CIS image scanner, calculates the total value sum, details denomination distribution, and verifies counterfeit notes instantly via UV/MG/IR channels.",
+    "shortDescription": "Mixed-denomination value cash counter with advanced CIS scan and counterfeit check.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "Out of Stock",
+    "featured": true,
+    "images": [
+      "/images/products/counter-2.png"
+    ],
+    "features": [
+      "Mixed denomination counting: shows total value and count breakdown.",
+      "High-speed CIS (Contact Image Sensor) recognition.",
+      "Triple counterfeit verification (UV, Magnetic, and Infrared).",
+      "Automatic currency identification.",
+      "Software updates via SD card or USB flash."
+    ],
+    "specifications": {
+      "Counting Speed": "1200 notes/min (value) / 1500 notes/min (count)",
+      "Hopper Capacity": "400 notes",
+      "Stacker Capacity": "250 notes",
+      "Display Type": "LCD Display",
+      "Detection Sensors": "CIS, UV, MG, IR",
+      "Net Weight": "6.8 kg",
+      "Power consumption": "60W"
+    },
+    "applications": [
+      "Mega Cooperative Societies",
+      "Supermarkets & Departmental Stores",
+      "Commercial Bank Cash Rooms",
+      "Finance Companies"
+    ],
+    "countingSpeed": "1000-1200",
+    "hopperCapacity": "Above 300",
+    "displayType": "LCD",
+    "uvDetection": true,
+    "mgDetection": true
+  },
+  {
+    "id": "prod-d-20",
+    "name": "Tabletop UV & Watermark Fake Note Detector D-20",
+    "slug": "tabletop-ultraviolet-uv-fake-note-detector-d-20",
+    "category": "fake-note-detectors",
+    "brand": "Suzuco",
+    "description": "The Suzuco D-20 is a powerful desktop ultraviolet counterfeit money detector. It utilizes twin 9W UV bulbs to reveal fluorescent markings, serial security threads, and paper quality. It features a bottom white-light grid panel for checking portrait watermarks and micro-printing, and a magnifying lens at the top for close-up inspection of ink texture.",
+    "shortDescription": "Twin-bulb desktop counterfeit validator with watermark viewer and magnifier.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "/images/products/detector-1.png"
+    ],
+    "features": [
+      "Twin 9W high-power UV light tubes.",
+      "Watermark viewing panel with white backlight.",
+      "Integrated magnifying magnifying glass on top.",
+      "Magnetic ink detection sensor tip on the side.",
+      "Lightweight desktop ABS housing."
+    ],
+    "specifications": {
+      "UV Bulbs": "2 x 9W UV tubes",
+      "Magnifier Magnification": "3x",
+      "Detection Type": "UV, MG, Watermark, Magnifying Check",
+      "Net Weight": "1.1 kg",
+      "Dimensions": "200mm x 120mm x 140mm"
+    },
+    "applications": [
+      "Retail Grocery Checkouts",
+      "Cooperative Billing Counters",
+      "Money Exchange Booths",
+      "School Fee Counters"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "None",
+    "uvDetection": true,
+    "mgDetection": true
+  },
+  {
+    "id": "prod-tc-20",
+    "name": "Wireless Counter Token Calling Bell TC-20",
+    "slug": "wireless-counter-token-calling-bell-tc-20",
+    "category": "token-systems",
+    "brand": "BankingAut",
+    "description": "The TC-20 is a standalone wireless queue and token calling keypad system, ideal for clinics, consultation desks, and cash billing counters in Nepal. The counter teller inputs the next token number on the heavy-duty keypad, which instantly relays the call to the lobby LED screen wirelessly, sounding a chime. Highly flexible and needs no software configuration.",
+    "shortDescription": "Easy plug-and-play wireless teller calling keypad with numeric LCD.",
+    "price": null,
+    "priceType": "Price on Request",
+    "availability": "In Stock",
+    "featured": false,
+    "images": [
+      "/images/products/display-1.png"
+    ],
+    "features": [
+      "Full numeric silicone keys for teller entry.",
+      "Local LCD displaying the currently called token.",
+      "Wireless range up to 150 meters in open spaces.",
+      "Supports 'Next', 'Recall', and 'Transfer' functions.",
+      "Powered by standard micro-USB adapter."
+    ],
+    "specifications": {
+      "Keypad Buttons": "15 functional keys",
+      "Local Display": "128x64 LCD screen",
+      "Wireless Frequency": "433 MHz band",
+      "Power Input": "DC 5V / 1A",
+      "Dimensions": "150mm x 90mm x 30mm"
+    },
+    "applications": [
+      "Doctor Consultation Rooms",
+      "Cooperative Cash Counters",
+      "Fast Food Pickup Counters",
+      "Service Centers"
+    ],
+    "countingSpeed": "Below 1000",
+    "hopperCapacity": "Below 200",
+    "displayType": "LCD",
+    "uvDetection": false,
+    "mgDetection": false
+  }
+]

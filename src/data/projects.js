@@ -1,0 +1,126 @@
+// Projects / Applications Mock Data
+
+export const projects = [
+  {
+    id: "proj-bank-queue",
+    title: "Bank Branch Queue System",
+    slug: "bank-branch-queue-system-kathmandu",
+    location: "Kathmandu",
+    industry: "Banking",
+    description: "Installed our flagship Q-Smart Interactive Queue Management System at a leading commercial bank branch in Putalisadak, Kathmandu. The project involved setting up a 17-inch touchscreen token dispenser, 8 counter token display boards, a lobby central display, and a bilingual voice caller. Average waiting times were reduced by 40% within the first month of deployment, greatly improving customer satisfaction scores.",
+    images: [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: true,
+    client: "Global IME Bank (Putalisadak)",
+    date: "January 2026",
+    scope: [
+      "1x 17\" Touchscreen Token Dispenser",
+      "8x Counter LED Display Boards (T-800)",
+      "1x Lobby LED TV Dashboard integration",
+      "Central Queue Management analytics software",
+      "Bilingual (Nepali & English) Text-to-Speech announcer"
+    ]
+  },
+  {
+    id: "proj-hospital-token",
+    title: "Hospital Token Management System",
+    slug: "hospital-token-management-system-pokhara",
+    location: "Pokhara",
+    industry: "Healthcare",
+    description: "Deployed a customized multi-department outpatient token management system at a leading hospital in Pokhara. The system features a custom ticket dispenser categorized into Pharmacy, Lab, OPD, and Billing. The deployment helps separate critical emergency arrivals from routine outpatient procedures, guiding thousands of patients daily through dedicated sound queues.",
+    images: [
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: true,
+    client: "Gandaki Medical College",
+    date: "March 2026",
+    scope: [
+      "1x Touchscreen Kiosk (TD-10) with custom healthcare sub-categories",
+      "12x Wireless Keypads for doctor consultations",
+      "12x Doctor Counter LED Displays",
+      "Lobby Main LCD display integration with status charts",
+      "On-site wiring, configuration, and training for medical staffs"
+    ]
+  },
+  {
+    id: "proj-gov-display",
+    title: "Government Office Display System",
+    slug: "government-office-display-system-lalitpur",
+    location: "Lalitpur",
+    industry: "Government",
+    description: "Implemented a public information token display and queue system at a busy administrative office in Lalitpur. Due to high foot traffic, the system was configured with ultra-rugged hardware calling keypads and large 4-digit red LED displays that are highly readable from up to 50 meters. The solution has successfully streamlined citizenship and passport application queues.",
+    images: [
+      "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: true,
+    client: "District Administration Office (DAO Lalitpur)",
+    date: "October 2025",
+    scope: [
+      "2x Rugged Metal Ticket Printers",
+      "6x Large High-Brightness Display Boards",
+      "Automatic ticket reset and restart mechanism",
+      "Wall mounting and safety structural reinforcements",
+      "Local language voice prompts (Nepali)"
+    ]
+  },
+  {
+    id: "proj-coop-bank",
+    title: "Cooperative Banking Solution",
+    slug: "cooperative-banking-solution-chitwan",
+    location: "Chitwan",
+    industry: "Banking",
+    description: "Supplied a package of heavy-duty cash handling and currency automation equipment for a cooperative union in Chitwan. The order included 10 units of Suzuco BC-100 currency counters, 2 units of Glory CS-200 cash value sorters, and desktop fake note detectors. The cooperative has reported zero counterfeit acceptance since deployment.",
+    images: [
+      "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: true,
+    client: "Chitwan Cooperative Union",
+    date: "November 2025",
+    scope: [
+      "10x Suzuco BC-100 Cash Counters with UV/MG",
+      "2x Glory CS-200 Value Sorters",
+      "5x Suzuco D-20 Desktop Fake Note Detectors",
+      "On-site calibration, cleaning kits, and teller training"
+    ]
+  },
+  {
+    id: "proj-college-bell",
+    title: "Automated Campus Bell System",
+    slug: "automated-campus-bell-system-kathmandu",
+    location: "Kathmandu",
+    industry: "Education",
+    description: "Installed our SB-Elite Automatic School Bell System across a multi-building college campus in Kathmandu. The system was integrated with the existing Public Address (PA) speakers, automatically broadcasting period chimes, warning alarms, and emergency notifications without any manual intervention.",
+    images: [
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: false,
+    client: "Apex College",
+    date: "August 2025",
+    scope: [
+      "1x SB-Elite Automated Bell Controller",
+      "PA Amplifier integration module",
+      "Preloaded holiday calendar configuration",
+      "Backup battery system configuration"
+    ]
+  },
+  {
+    id: "proj-corporate-display",
+    title: "Corporate Lobby Information & Display",
+    slug: "corporate-lobby-information-display-lalitpur",
+    location: "Lalitpur",
+    industry: "Corporate",
+    description: "Designed and installed custom lobby display systems and corporate information boards for a multinational enterprise office in Lalitpur. Displays sync with company servers to broadcast real-time metrics, employee schedules, and customer greetings.",
+    images: [
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop"
+    ],
+    featured: false,
+    client: "Chaudhary Group (CG) Head Office",
+    date: "May 2025",
+    scope: [
+      "3x Customized informational LED boards",
+      "Network synchronization modules",
+      "Web interface management portal setup"
+    ]
+  }
+];
